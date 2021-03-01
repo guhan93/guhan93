@@ -1,4 +1,4 @@
-<center><img src=" https://s3.us-east-2.amazonaws.com/brainstorm-east-2/images/Blog/image-e6e03722-7b36-42ae-9b97-b18e3fc3e4dd" height = "500" width="500"></center>
+<center><img src="https://s3.us-east-2.amazonaws.com/brainstorm-east-2/images/Blog/image-e6e03722-7b36-42ae-9b97-b18e3fc3e4dd" height = "" width=""></center>
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Guhanesvar</h1>
 <h3 align="center">I am an ambitious student ready to thrive in this data-driven environment.</h3>
