@@ -1,3 +1,4 @@
+<center><img src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.imarticus.org%2Ftag%2Fdata-science-training%2Fpage%2F3%2F&psig=AOvVaw1d0y644Yi2Az_4FgzxmOrO&ust=1614707382149000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjWzfXTj-8CFQAAAAAdAAAAABAu " height = "" width=""></center>
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Guhanesvar</h1>
 <h3 align="center">I am an ambitious student ready to thrive in this data-driven environment.</h3>
