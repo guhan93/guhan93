@@ -1,4 +1,4 @@
-<center><img src="https://s3.us-east-2.amazonaws.com/brainstorm-east-2/images/Blog/image-e6e03722-7b36-42ae-9b97-b18e3fc3e4dd" height = "" width=""></center>
+<center><img src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966" height = "" width=""></center>
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Guhanesvar</h1>
 <h3 align="center">I am an ambitious student ready to thrive in this data-driven environment.</h3>
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Covid Predictor using x-ray image**
 
-- 🤝 I’m looking for help with **Depeloyment of Covid Predictor using x-ray image**
+- 🤝 I’m looking for help with **Deployment of Covid Predictor using x-ray image**
 
 - 💬 Ask me about **Machine learning and Image processing**
 
