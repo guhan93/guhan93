@@ -1,4 +1,4 @@
-<center><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8930b329502133.55f6b199518e9.gif" height = "" width=""></center>
+<center><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8930b329502133.55f6b199518e9.gif" height = "" width="" align="create"></center>
 
 <h1 align="center">Hi 👋, I'm Guhanesvar</h1>
 <h3 align="center">I am an ambitious student ready to thrive in this data-driven environment.</h3>
