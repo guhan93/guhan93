@@ -1,5 +1,5 @@
-<center><img src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966" height = "" width=""></center>
-# Hi there 👋
+<center><img src="https://servreality.com/wp-content/uploads/2020/07/Scala.gif" height = "" width=""></center>
+
 <h1 align="center">Hi 👋, I'm Guhanesvar</h1>
 <h3 align="center">I am an ambitious student ready to thrive in this data-driven environment.</h3>
 
@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guhan93" alt="guhan93" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Deployment**
 
-- 🌱 I’m currently learning **Fast API**
-
-- 👯 I’m looking to collaborate on **Covid Predictor using x-ray image**
-
-- 🤝 I’m looking for help with **Deployment of Covid Predictor using x-ray image**
+- 🌱 I’m currently learning **FLASK**
 
 - 💬 Ask me about **Machine learning and Image processing**
 
